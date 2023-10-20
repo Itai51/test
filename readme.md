@@ -1,3 +1,1 @@
-# Jedi Bob
-
 # Hello there
